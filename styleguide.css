@@ -1,0 +1,45 @@
+:root { 
+  --black: #000000;
+  --black-2: #000000cc;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 12px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 35px;
+  --font-size-xxxxl: 45px;
+ 
+  --font-family-noto_sans: "Noto Sans", Helvetica;
+}
+.notosans-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosans-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosans-bold-black-16px {
+  color: var(--black-2);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosans-normal-black-12px-2 {
+  color: var(--black-2);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
