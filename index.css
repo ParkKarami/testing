@@ -1,0 +1,746 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  height: 2707px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.index .rectangle-31-IO3Fu5 {
+  background-color: #f9f9f9;
+  height: 277px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2130px;
+  width: 1440px;
+}
+
+.index .rectangle-23-IO3Fu5 {
+  background-color: #f9f9f9;
+  height: 748px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 944px;
+  width: 1440px;
+}
+
+.index .why-learning-in-arc-IO3Fu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1036px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 1269px;
+  width: auto;
+}
+
+.index .rectangle-22-IO3Fu5 {
+  background-color: transparent;
+  border: 1px solid var(--black);
+  height: 139px;
+  left: 806px;
+  position: absolute;
+  top: 1375px;
+  width: 464px;
+}
+
+.index .arc-provided-IO3Fu5 {
+  background-color: transparent;
+  height: auto;
+  left: 650px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 735px;
+  width: auto;
+}
+
+.index .header-IO3Fu5 {
+  background-color: transparent;
+  height: 144px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.index .rectangle-24-74EEvB {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 208px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.index .advanced-research-computing-74EEvB {
+  background-color: transparent;
+  height: auto;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  width: auto;
+}
+
+.index .image-1-74EEvB {
+  background-color: transparent;
+  height: 44px;
+  left: 1115px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 155px;
+}
+
+.index .line-16-74EEvB {
+  background-color: transparent;
+  height: 2px;
+  left: 170px;
+  position: absolute;
+  top: 103px;
+  width: 1100px;
+}
+
+.index .main-feature-IO3Fu5 {
+  background-color: transparent;
+  height: 258px;
+  left: 291px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 258px;
+}
+
+.index .main-feature-865xPf {
+  background-color: transparent;
+  height: 258px;
+  left: 591px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 258px;
+}
+
+.index .main-feature-AGMxPx {
+  background-color: transparent;
+  height: 258px;
+  left: 891px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 820px;
+  width: 258px;
+}
+
+.index .line-17-IO3Fu5 {
+  background-color: transparent;
+  height: 2px;
+  left: 681px;
+  position: absolute;
+  top: 774px;
+  width: 75px;
+}
+
+.index .frame-7-IO3Fu5 {
+  background-color: transparent;
+  height: 512px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 185px;
+  width: 1440px;
+}
+
+.index .learn-hpc-with-arc-teams-xm5uEj {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  width: auto;
+}
+
+.index .advanced-resear-development-swd-xm5uEj {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: 470px;
+}
+
+.index .you-can-find-al-ful-information-xm5uEj {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 170px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 320px;
+  width: auto;
+}
+
+.index .rectangle-29-xm5uEj {
+  background-color: transparent;
+  cursor: pointer;
+  height: 42px;
+  left: 170px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 390px;
+  width: 190px;
+}
+
+.index .access-teams-xm5uEj {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 397px;
+  width: auto;
+}
+
+.index .ellipse-xm5uEj {
+  background-color: transparent;
+  height: 330px;
+  left: 863px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 330px;
+}
+
+.index .explanation-of-arc-IO3Fu5 {
+  background-color: transparent;
+  height: auto;
+  left: 822px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1400px;
+  width: auto;
+}
+
+.index .rectangle-30-IO3Fu5 {
+  background-color: #ededed;
+  border: 1px solid #c4c4c4e0;
+  height: 382px;
+  left: -2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1201px;
+  width: 745px;
+}
+
+.index .vector-1-IO3Fu5 {
+  background-color: transparent;
+  height: 381px;
+  left: -2px;
+  position: absolute;
+  top: 1203px;
+  width: 744px;
+}
+
+.index .quick-link-IO3Fu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 637px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 1805px;
+  width: auto;
+}
+
+.index .search-any-hpc-raining-courses-IO3Fu5 {
+  background-color: transparent;
+  height: auto;
+  left: 534px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 1856px;
+  width: auto;
+}
+
+.index .component-3-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100px;
+  left: 575px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1917px;
+  width: 276px;
+}
+
+.index .ellipse-axYf8J {
+  background-color: transparent;
+  height: 108px;
+  left: -4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 108px;
+}
+
+.index .it-service-desk-axYf8J {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.index .explaination-of-it-service-desk-axYf8J {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: auto;
+}
+
+.index .component-4-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100px;
+  left: 907px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1917px;
+  width: 313px;
+}
+
+.index .ellipse-rTg5pD {
+  background-color: transparent;
+  height: 108px;
+  left: -4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 108px;
+}
+
+.index .it-knowledge-base-rTg5pD {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.index .explaination-of-knowledge-base-rTg5pD {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: auto;
+}
+
+.index .component-4-865xPf {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100px;
+  left: 206px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1917px;
+  width: 313px;
+}
+
+.index .ellipse-rTRyFE {
+  background-color: transparent;
+  height: 108px;
+  left: -4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 108px;
+}
+
+.index .it-knowledge-base-rTRyFE {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: auto;
+}
+
+.index .explaination-of-knowledge-base-rTRyFE {
+  background-color: transparent;
+  height: auto;
+  left: 125px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 52px;
+  width: auto;
+}
+
+.index .footer-IO3Fu5 {
+  background-color: transparent;
+  height: 300px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2407px;
+  width: 1440px;
+}
+
+.index .rectangle-4-6isyAT {
+  background-color: #c4c4c4e0;
+  height: 300px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.index .university-of-leeds-6isyAT {
+  background-color: transparent;
+  color: var(--black-2);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 57px;
+  letter-spacing: -0.24px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 97px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .advanced-research-computing-6isyAT {
+  background-color: transparent;
+  height: auto;
+  left: 57px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  width: auto;
+}
+
+.index .frame-23-6isyAT {
+  background-color: transparent;
+  height: 174px;
+  left: 530px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 63px;
+  width: 850px;
+}
+
+.index .contat-us-zdIVBI {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.24px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .quick-links-zdIVBI {
+  background-color: transparent;
+  height: auto;
+  left: 285px;
+  letter-spacing: -0.24px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .credit-zdIVBI {
+  background-color: transparent;
+  height: auto;
+  left: 584px;
+  letter-spacing: -0.24px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.index .send-us-a-ticke-est-appointment-zdIVBI {
+  background-color: transparent;
+  height: auto;
+  left: 2px;
+  letter-spacing: -0.18px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: auto;
+}
+
+.index .hpc-documentati-ga-base-sitemap-zdIVBI {
+  background-color: transparent;
+  height: auto;
+  left: 285px;
+  letter-spacing: -0.18px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: auto;
+}
+
+.index .base-on-the-fee-by-scott-robbin-zdIVBI {
+  background-color: transparent;
+  height: auto;
+  left: 584px;
+  letter-spacing: -0.18px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: auto;
+}
+
+.index .ellipse-6isyAT {
+  background-color: transparent;
+  height: 44px;
+  left: 57px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 44px;
+}
+
+.index .ellipse-yG03hB {
+  background-color: transparent;
+  height: 44px;
+  left: 121px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 44px;
+}
+
+.index .ellipse-PFJXaN {
+  background-color: transparent;
+  height: 44px;
+  left: 185px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 150px;
+  width: 44px;
+}
+
+.index .search-IO3Fu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 692px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2177px;
+  width: auto;
+}
+
+.index .search-any-hpc-raining-courses-865xPf {
+  background-color: transparent;
+  height: auto;
+  left: 564px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 2228px;
+  width: auto;
+}
+
+.index .search-865xPf {
+  background-color: transparent;
+  height: 45px;
+  left: 494px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2289px;
+  width: 500px;
+}
+
+.index .rectangle-9-ox9df4 {
+  background-color: var(--white);
+  border-radius: 25.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 45px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 500px;
+}
+
+.index .rectangle-10-ox9df4 {
+  background-color: #398bfc;
+  border-radius: 25.5px;
+  height: 45px;
+  left: 349px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 151px;
+}
+
+.index .search-ox9df4 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 398px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: auto;
+}
+
+.index .which-programmi-ou-want-to-find-ox9df4 {
+  background-color: transparent;
+  color: #398bfc;
+  font-family: var(--font-family-noto_sans);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: auto;
+}
